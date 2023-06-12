@@ -82,7 +82,8 @@ button{
 }
 /* second section */
 main>section:nth-child(3){
-    background-color: hsl(179, 61%, 51%);
+    /* background-color: hsl(179, 54%, 50%); */
+    background-color: hsl(179, 70%, 45%);
     border-bottom-right-radius: .65rem;
     color: #fff;
     display: grid;
